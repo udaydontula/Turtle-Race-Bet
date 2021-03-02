@@ -9,10 +9,10 @@ and tells whether we have won or lose the game. It is simple and fun game using 
 - Screen
 
 ## Preview
-![Turtle race preview[(img/)
+![Turtle race preview[(img/turtleracebet.png)
 
 **This is the preview of game**
 
-![Turtle race preview[(img/)
+![Turtle race preview[(img/turtlrrace)
 
 **This is the preview of result**
