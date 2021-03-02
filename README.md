@@ -12,6 +12,7 @@ and tells whether we have won or lose the game. It is simple and fun game using 
 ![Turtle race preview[(img/)
 
 **This is the preview of game**
+
 ![Turtle race preview[(img/)
 
 **This is the preview of result**
